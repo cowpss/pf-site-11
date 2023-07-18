@@ -345,11 +345,13 @@ ul {
   #header .onlinestore {
     left: 20px;
     bottom: 20px;
-    height: 43%;
+    height: 210px;
   }
 
   #header .onlinestore a {
-    padding: 13% 5%;
+    padding: 20px 10px;
+    font-size: 0.8rem;
+    height: 190px;
   }
 
   /* info */
